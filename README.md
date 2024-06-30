@@ -1,2 +1,3 @@
 # Pollard Lab Rotation Project - Spring 2024 
-## Fine-tuning Enformer on colorectal cancer TPM counts + in-silico mutagenesis 
+
+This GitHub repository contains all of the jupyter notebook files as well as fine-tuned models used for this rotation. 
