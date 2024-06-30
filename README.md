@@ -1,2 +1,2 @@
-# Enformer_Finetuning_TCGA
-Pollard Lab Rotation Project - Fine-tuning Enformer on colorectal cancer TPM counts + in-silico mutagenesis 
+# Pollard Lab Rotation Project - Spring 2024 
+## Fine-tuning Enformer on colorectal cancer TPM counts + in-silico mutagenesis 
